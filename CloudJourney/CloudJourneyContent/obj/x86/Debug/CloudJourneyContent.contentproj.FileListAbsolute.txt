@@ -1,0 +1,2 @@
+C:\Users\Owner\Documents\GameJam2012\New folder (2)\CloudJourney\CloudJourneyContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\PhiDelt\GreekWeekGame\CloudJourney\CloudJourneyContent\obj\x86\Debug\CloudJourneyContent.contentprojResolveAssemblyReference.cache

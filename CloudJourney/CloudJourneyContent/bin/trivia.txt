@@ -1,0 +1,434 @@
+<1>In what year was the Declaration of Independence written?</1>
+<correct>1776 FIRST</correct>
+<wrong>1492</wrong>
+<wrong>1675</wrong>
+<wrong>1783</wrong>
+
+<2>At the time of the Declaration, how many colonies were there in the United States?</2>
+<correct>13</correct>
+<wrong>15</wrong>
+<wrong>27</wrong>
+<wrong>50</wrong>
+
+<3>Which country gave the colonies support against the British?</3>
+<correct>France</correct>
+<wrong>Spain</wrong>
+<wrong>Austria</wrong>
+<wrong>Italy</wrong>
+
+<4>Which year was the US Constitution written?</4>
+<correct>1789</correct>
+<wrong>1678</wrong>
+<wrong>1733</wrong>
+<wrong>1806</wrong>
+
+<5>In which year did the Confederate States succeed from the Union?</5>
+<correct>1861</correct>
+<wrong>1775</wrong>
+<wrong>1809</wrong>
+<wrong>1852</wrong>
+
+<6>In what year were women given the right to vote in the US?</6>
+<correct>1920</correct>
+<wrong>1848</wrong>
+<wrong>1910</wrong>
+<wrong>1939</wrong>
+
+<7>In which year did the United States enter WWI?</7>
+<correct>1917</correct>
+<wrong>1899</wrong>
+<wrong>1908</wrong>
+<wrong>1921</wrong>
+
+<8>In what year did the Great Depression begin?</8>
+<correct>1929</correct>
+<wrong>1908</wrong>
+<wrong>1933</wrong>
+<wrong>1939</wrong>
+
+<9>In which year did Japan attack the United States at Pearl Harbor?</9>
+<correct>1941</correct>
+<wrong>1928</wrong>
+<wrong>1935</wrong>
+<wrong>1939</wrong>
+
+<10>In which year was the War on Terror Declared?</10>
+<correct>2001</correct>
+<wrong>1999</wrong>
+<wrong>2003</wrong>
+<wrong>2005</wrong>
+
+<11>Which movie was an American film version of a popular Swedish nocel?</11>
+<correct>The Girl with the Dragon Tattoo</correct>
+<wrong>The Artist</wrong>
+<wrong>Midnight in Paris</wrong>
+<wrong>Hugo</wrong>
+
+<12>This movie is based on a Marvel Comics series, featuring Charles Xavier.</12>
+<correct>X-Men: First Class </correct>
+<wrong>Warrior</wrong>
+<wrong>Rise of the Planet of the Apes</wrong>
+<wrong>Mission Impossible: Ghost Protocol</wrong>
+
+<13>This highly acclaimed, silent black and white film was made in France.</13>
+<correct>The Artist</correct>
+<wrong>Drive</wrong>
+<wrong>Vertigo</wrong>
+<wrong>Hugo</wrong>
+
+<14>Which 2011 film below stared Brad Pitt and Sean Penn?</14>
+<correct>The Tree of Life</correct>
+<wrong>Babel</wrong>
+<wrong>Midnight in Paris</wrong>
+<wrong>Contagion</wrong>
+
+<15>This popular 2011 movie was directed by Woody Allen.</15>
+<correct>Midnight in Paris</correct>
+<wrong>The Girl with the Dragon Tattoo</wrong>
+<wrong>Hugo</wrong>
+<wrong>The Tree of Life</wrong>
+
+<16>Which movie below stared Ryan Gosling?</16>
+<correct>Drive</correct>
+<wrong>Warrior</wrong>
+<wrong>Mission Impossible: Ghost Protocol</wrong>
+<wrong>X-Men: First Class</wrong>
+
+<17>Which film stared Nick Nolte as the father of two estranged brothers?</17>
+<correct>Warrior</correct>
+<wrong>Contagion</wrong>
+<wrong>The Artist</wrong>
+<wrong>The Skin I Live In</wrong>
+
+<18>This film was based on a biotech company’s experiment gone wrong.</18>
+<correct>Rise of the Planet of the Apes</correct>
+<wrong>A Seperation</wrong>
+<wrong>Melancholia</wrong>
+<wrong>Contagion</wrong>
+
+<19>This movie included scenes filmed at the Burj Khalifa in Dubai.</19>
+<correct>Mission Impossible: Ghost Protocol</correct>
+<wrong>Weekend</wrong>
+<wrong>Into the Abyss</wrong>
+<wrong>Take Shelter</wrong>
+
+<20>Which popular 2011 movie stared both Matt Damon and Jude Law?</20>
+<correct>Contagion</correct>
+<wrong>Certified Copy</wrong>
+<wrong>Win Win</wrong>
+<wrong>Take Shelter</wrong>
+
+<21>Which song by Christina Aguilera was at the top of the charts in the year 2000?</21>
+<correct>What a Girl Wants</correct>
+<wrong>Thank God I Found You</wrong>
+<wrong>Music</wrong>
+<wrong>Independent Woman</wrong>
+
+<22>Which song was at the top of the charts in 2001, by Outkast?</22>
+<correct>Ms. Jackson</correct>
+<wrong>Bootylicious</wrong>
+<wrong>Angel</wrong>
+<wrong>U Got It Bad</wrong>
+
+<23>Which song by Eminem was at the top of the charts in 2002 and 2003?</23>
+<correct>Lose Yourself</correct>
+<wrong>Superman</wrong>
+<wrong>Stand Up</wrong>
+<wrong>So Sick</wrong>
+
+<24>This American Idol winner sang “A Moment Like This” in 2002.<24#>
+<correct>Kelly Clarkson</correct>
+<wrong>Taylor Swift</wrong>
+<wrong>Jennifer Lopez</wrong>
+<wrong>Clay Aiken</wrong>
+
+<25>Who performed the song “Burn” in 2004?</25>
+<correct>Usher</correct>
+<wrong>Outkast</wrong>
+<wrong>Fantasia Barrino</wrong>
+<wrong>Juvenile</wrong>
+
+<26>In 2005, this song was performed by Gwen Stefani.</26>
+<correct>Hollaback Girl</correct>
+<wrong>Don’t Forget About Us</wrong>
+<wrong>We Belong Together</wrong>
+<wrong>Gold Digger</wrong>
+
+<27>Which artist was featured in Shakira’s “Hips Don’t Lie”?</27>
+<correct>Wyclef Jean</correct>
+<wrong>Taylor Hicks</wrong>
+<wrong>Justin Timberlake</wrong>
+<wrong>James Blunt</wrong>
+
+<28>In 2007, this song by Avril Lavigne was the top of the charts.</28>
+<correct>Girlfriend</correct>
+<wrong>Complicated</wrong>
+<wrong>Sk8er Boi</wrong>
+<wrong>I’m With You</wrong>
+
+<29>This 2008 song by Rihanna was at the top of the charts in the summer.</29>
+<correct>Take a Bow</correct>
+<wrong>Touch My Body</wrong>
+<wrong>Whatever You Like</wrong>
+<wrong>Lollipop</wrong>
+
+<30>Which top song from 2009 was NOT performed by the Black Eyed Peas?</30>
+<correct>Poker Face</correct>
+<wrong>Boom Boom Pow</wrong>
+<wrong>I Gotta Feeling</wrong>
+<wrong>They were all performed by the Black Eyed Peas</wrong>
+
+<31>What “black metal” gave blacksmiths their name?</31>
+<correct>Iron</correct>
+<wrong>Silver</wrong>
+<wrong>Lead</wrong>
+<wrong>Mercury</wrong>
+
+<32>What word describes the physical components of a computer?</32>
+<correct>hardware</correct>
+<wrong>monitor</wrong>
+<wrong>RAM</wrong>
+<wrong>motherboard</wrong>
+
+<33>Which is the brightest planet in the sky?</33>
+<correct>Venus</correct>
+<wrong>Mars</wrong>
+<wrong>the Sun</wrong>
+<wrong>Neptune</wrong>
+
+<34>Which planet is named after the Greek God who personified the sky?</34>
+<correct>Uranus</correct>
+<wrong>Neptune</wrong>
+<wrong>Mars</wrong>
+<wrong>Saturn</wrong>
+
+<35>Which body organ are vitamins A, B, D, E, and K stored in?</35>
+<correct>the Liver</correct>
+<wrong>the Heart</wrong>
+<wrong>the Brain</wrong>
+<wrong>the Kidneys</wrong>
+
+<36>What is the positively charged particle in the nucleus of an atom?</36>
+<correct>proton</correct>
+<wrong>neutron</wrong>
+<wrong>electron</wrong>
+<wrong>alpha-particle</wrong>
+
+<37>What country was India Ink developed in?</37>
+<correct>China</correct>
+<wrong>India</wrong>
+<wrong>United States</wrong>
+<wrong>England</wrong>
+
+<38>What colorless, odorless substance is the main constituent of natural gas?</38>
+<correct>methane</correct>
+<wrong>butane</wrong>
+<wrong>propane</wrong>
+<wrong>ethane</wrong>
+
+<39>What does SPF stand for in sunscreen?</39>
+<correct>Sun Protection Factor</correct>
+<wrong>Sun Provided For</wrong>
+<wrong>Super Protection For</wrong>
+<wrong>Sun Porous Feeling</wrong>
+
+<40>What explosive jelly is combined with gasoline to make incendiary bombs?</40>
+<correct>Napalm</correct>
+<wrong>Vaseline</wrong>
+<wrong>Gelignite</wrong>
+<wrong>Nitroglycerin</wrong>
+
+<41>Which college football team won the Rose Bowl for the 20th time in 2007?</41>
+<correct>USC Trojans</correct>
+<wrong>Michigan Wolverines</wrong>
+<wrong>Ohio State Buckeyes</wrong>
+<wrong>Penn State Nittany Lions</wrong>
+
+<42>Who was the Philladelphia Phillies Manager in 2011?</42>
+<correct>Charlie Manuel</correct>
+<wrong>Bobby Cox </wrong>
+<wrong>Joe Torre<wrong>
+<wrong>Jack McKeon</wrong>
+
+<43>Which MLS team wont the soccer championship in 2008?</43>
+<correct>Columbus Crew<correct>
+<wrong>New York Red Bulls</wrong>
+<wrong>DC United</wrong>
+<wrong>LA Galaxy</wrong>
+
+<44>Who was the only NL pitcher to win 20 games from 2006 through 2009?</44>
+<correct>Brandon Webb</correct>
+<wrong>Roy Oswalt</wrong>
+<wrong>Jake Peavy</wrong>
+<wrong>Tim Lincecum</wrong>
+
+<45>Hall of Famer Willie Shoemaker became a household name in which sport?</45>
+<correct>Horse Racing</correct>
+<wrong>Baseball</wrong>
+<wrong>Power Lifting</wrong>
+<wrong>Golf</wrong>
+
+<46>Who was the first African American drafted to play in the NBA?</46>
+<correct>Chuck Cooper</correct>
+<wrong>Walt Hazzard</wrong>
+<wrong>Lew Alcindor</wrong>
+<wrong>Jesus Shuttleford</wrong>
+
+<47>Which heavyweight boxer bit the tip of Evander Holyfield’s ear off during a fight?</47>
+<correct>Mike Tyson</correct>
+<wrong>Roberto Duran</wrong>
+<wrong>Joe Frazier</wrong>
+<wrong>Lennox Lewis</wrong>
+
+<48>Who was the first NBA player with over 15,000 career assists?</48>
+<correct>John Stockton</correct>
+<wrong>Bob Cousy</wrong>
+<wrong>Pete Maravich</wrong>
+<wrong>George Mikan</wrong>
+
+<49>Who holds the NHL record for all-time regular season wins with 551?</49>
+<correct>Patrick Roy</correct>
+<wrong>Ed Belfour</wrong>
+<wrong>Terry Sawchuk</wrong>
+<wrong>Jacques Plante</wrong>
+
+<50>Who HIT the ball the rolled through Bill Buckner’s legs in the 1986 World Series?</50>
+<correct>Mookie Wilson</correct>
+<wrong>Gary Carter</wrong>
+<wrong>Darryl Strawberry</wrong>
+<wrong>Ray Knight</wrong>
+
+<51>Krishna and Rama are avatars of what Hindu God?</51>
+<correct>Vishnu</correct>
+<wrong>Brahman</wrong>
+<wrong>Shiva</wrong>
+<wrong>Bob Saget</wrong>
+
+<52>The Great Wall of China was built to defend against whom?</52>
+<correct>Tujui</wrong>
+<wrong>Russians</wrong>
+<wrong>Chinese</wrong>
+<wrong>Japanese</wrong>
+
+<53>Edgar Allen Poe's short story by this name is considered the first detective story ever?</53>
+<correct>Murders in the Rue Morgue</correct>
+<wrong>The Raven</wrong>
+<wrong>The Telltale Heart</wrong>
+<wrong>The Mark of the Red Death</wrong>
+
+<54>This chemical element is the only one named after a US state</54>
+<correct>Californium</correct>
+<wrong>Floridium</wrong>
+<wrong>Alabamum</wrong>
+<wrong>Maine</wrong>
+
+<55>He occupied a chair over which his sword was suspended by a single thread</55>
+<correct>Damocles</correct>
+<wrong>Alexander the Great</wrong>
+<wrong>Pope Innocent IV</wrong>
+<wrong>Sophocles</wrong>
+
+<56>What is it?</56>
+<correct>It is what it is</correct>
+<wrong>Pizza the Hutt</wrong>
+<wrong>A joke</wrong>
+<wrong>The Game</wrong>
+
+<57>This jedi survived Order 66</57>
+<correct>Shaak Ti</correct>
+<wrong>Aayla Secura</wrong>
+<wrong>Ki Adi Mundi</wrong>
+<wrong>Pizza the Hutt</wrong>
+
+
+
+<58>9 teaspoons equals how many tablespoons?</58>
+<correct>3</correct>
+<wrong>5</wrong>
+<wrong>14</wrong>
+<wrong>1</wrong>
+
+<59>This former MLB player and announcer is famous for his catchphrase "Holy Cow!"</59>
+<correct>Phil Rizzuto</correct>
+<wrong>Harry Kalas</wrong>
+<wrong>Harry Caray</wrong>
+<wrong>Tim McCarver</wrong>
+
+
+<60>What is Burt Reynolds' middle name?</60>
+<correct>Milo</correct>
+<wrong>Andrew</wrong>
+<wrong>Kevin</wrong>
+<wrong>Mustache</wrong>
+
+<61>What is the proper term for a pregnant goldfish?</61>
+<correct>Twit</correct>
+<wrong>Hen</wrong>
+<wrong>School Bus</wrong>
+<wrong>Impossible</wrong>
+
+<62>How long is a newborn kangaroo?</62>
+<correct>1 inch</correct>
+<wrong>1 foot</wrong>
+<wrong>6 inches</wrong>
+<wrong>4 inches </wrong>
+
+<63>How long is the longest match in Wimbledon history?</63>
+<correct>11 hours</correct>
+<wrong>4 hours</wrong>
+<wrong>8 hours</wrong>
+<wrong>It's still going</wrong>
+
+<64>What country exports the most wine annually?</64>
+<correct>Italy</correct>
+<wrong>France</wrong>
+<wrong>USA</wrong>
+<wrong>Great Britain</wrong>
+
+
+<65>Which actress below is most famous for her brief role in an Alfred Hitchcock horror movie?</65>
+<correct>Vera Miles</correct>
+<wrong>Lauren Bacall</wrong>
+<wrong>Bette Davis</wrong>
+<wrong>Barbara Stanwyck</wrong>
+
+<66>Which posthumous Bela Lugosi movie is critically considered one of the worst movies ever></66>
+<correct>Plan 9 From Outer Space </correct>
+<wrong>Dracula </wrong>
+<wrong>Glen or Glenda </wrong>
+<wrong>Vampire Over London </wrong>
+
+<67>Which short actor is known for roles such as Professor Flitwick in the Harry Potter series and Wicket in the Star Wars series?</67>
+<correct>Warwick Davis </correct>
+<wrong>Verne Troyer </wrong>
+<wrong>Kenny Baker </wrong>
+<wrong>Michael Dunn </wrong>
+
+<68>Who was the first person in Division I history to rush for more than 4,000 yards and pass for more than 8,000 yards? </68>
+<correct>Brad Smith </correct>
+<wrong>Cam Newton </wrong>
+<wrong>Robert Griffin III </wrong>
+<wrong>Tom Brady </wrong>
+
+<69>Lou Gehrig's disease is also known by what more scientific name? </69>
+<correct>Amyotrophic Lateral Sclerosis </correct>
+<wrong>Arterial Lysogenic Scoliosis </wrong>
+<wrong>Abnormal Limb Syndrome </wrong>
+<wrong>Neurodegenerative Androgenic Tropism </wrong>
+
+<70>The first man on the moon was... </70>
+<correct>Neil Armstrong </correct>
+<wrong>Buzz Aldrin </wrong>
+<wrong>Lance Armstrong </wrong>
+<wrong>Louis Armstrong </wrong>
+
+
+<71>The only remaining owner of an AFL team in its original city is: </71>
+<correct>Ralph Wilson Jr. </correct>
+<wrong>Cecil Isabel </wrong>
+<wrong>Clark Hunt </wrong>
+<wrong>Woody Johnson </wrong>
+
+
+
+
